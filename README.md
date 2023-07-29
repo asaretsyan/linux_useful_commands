@@ -1,1 +1,1 @@
-# linux_useful_commands
+# Полезные команды linux (будут добавляться в раздел WiKi)
